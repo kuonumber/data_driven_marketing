@@ -10,3 +10,4 @@
 
 # analysis methods
 [cohort-analysis-in-python](https://towardsdatascience.com/a-step-by-step-introduction-to-cohort-analysis-in-python-a2cbbd8460ea)  
+[cohort-analysis-with-python](http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/)  
