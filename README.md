@@ -15,6 +15,7 @@
 # analysis methods
 [cohort-analysis-in-python](https://towardsdatascience.com/a-step-by-step-introduction-to-cohort-analysis-in-python-a2cbbd8460ea)  
 [cohort-analysis-with-python](http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/)  
+[你的行銷漏斗（Marketing Funnel）做對了嗎？](https://transbiz.com.tw/marketing-funnel/)
 
 # SEO   
 [ASO 優化《第一篇》App 標題 — Apptweak 免費 ASO 工具 | Jeffrey Talks](https://medium.com/@jeffreywang1183/app-aso-960640ad90c3)  
