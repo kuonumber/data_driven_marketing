@@ -65,12 +65,12 @@
 [Everything A/B Testing](https://www.youtube.com/playlist?list=PLEXcbK4FvkxHdNU8NhSFcw_pr6iDFWbka)  
 
 ## 指標、事件、使用者
-[Getting Started with Analytics on iOS #1: Events (Firecasts)](https://www.youtube.com/watch?v=kpkW78OSbiw)
-[Getting Started with Analytics on iOS #2: User Properties (Firecasts)](https://www.youtube.com/watch?v=DletQHfNGCE)
-[用户标签实践：如何建立标签体系实现精准营销？](http://www.woshipm.com/user-research/1016865.html)
-[Democratizing Metric Definition and Discovery at Airbnb](https://www.youtube.com/watch?v=rpgBge-qJnM)
-[Global metrics, Local metrics](https://medium.com/@TweetAnnaMarie/global-metrics-local-metrics-17b8afadaa6d)
-[Analyzing Metric Changes](https://www.sequoiacap.com/article/analyzing-metric-changes)
+[Getting Started with Analytics on iOS #1: Events (Firecasts)](https://www.youtube.com/watch?v=kpkW78OSbiw)  
+[Getting Started with Analytics on iOS #2: User Properties (Firecasts)](https://www.youtube.com/watch?v=DletQHfNGCE)  
+[用户标签实践：如何建立标签体系实现精准营销？](http://www.woshipm.com/user-research/1016865.html)  
+[Democratizing Metric Definition and Discovery at Airbnb](https://www.youtube.com/watch?v=rpgBge-qJnM)  
+[Global metrics, Local metrics](https://medium.com/@TweetAnnaMarie/global-metrics-local-metrics-17b8afadaa6d)  
+[Analyzing Metric Changes](https://www.sequoiacap.com/article/analyzing-metric-changes)  
 
 
 # SEO   
