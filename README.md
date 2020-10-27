@@ -52,11 +52,17 @@
 [For Your Ears Only: Personalizing Spotify Home with Machine Learning](https://engineering.atspotify.com/2020/01/16/for-your-ears-only-personalizing-spotify-home-with-machine-learning/)
 [Would You Like Fries With That? McDonald’s Already Knows the Answer](https://www.nytimes.com/2019/10/22/business/mcdonalds-tech-artificial-intelligence-machine-learning-fast-food.html)
 
+
+
 ---------------------------------------------------------------------------------------------------------------------
 # analysis methods
 [cohort-analysis-in-python](https://towardsdatascience.com/a-step-by-step-introduction-to-cohort-analysis-in-python-a2cbbd8460ea)  
 [cohort-analysis-with-python](http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/)  
-[你的行銷漏斗（Marketing Funnel）做對了嗎？](https://transbiz.com.tw/marketing-funnel/)
+[你的行銷漏斗（Marketing Funnel）做對了嗎？](https://transbiz.com.tw/marketing-funnel/)  
+[什么是数据分析的漏斗模型？](https://zhuanlan.zhihu.com/p/29720621)  
+[A Beginner’s Guide to Cohort Analysis: the Most Actionable (and Underrated) Report on Google Analytic](https://medium.com/analytics-for-humans/a-beginners-guide-to-cohort-analysis-the-most-actionable-and-underrated-report-on-google-c0797d826bf4)  
+[User segmentation: A guide to understanding your customers](https://mixpanel.com/blog/user-segmentation-guide-understanding-customers-2/)
+[Everything A/B Testing](https://www.youtube.com/playlist?list=PLEXcbK4FvkxHdNU8NhSFcw_pr6iDFWbka)  
 
 # SEO   
 [ASO 優化《第一篇》App 標題 — Apptweak 免費 ASO 工具 | Jeffrey Talks](https://medium.com/@jeffreywang1183/app-aso-960640ad90c3)  
