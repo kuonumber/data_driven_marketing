@@ -64,5 +64,14 @@
 [User segmentation: A guide to understanding your customers](https://mixpanel.com/blog/user-segmentation-guide-understanding-customers-2/)
 [Everything A/B Testing](https://www.youtube.com/playlist?list=PLEXcbK4FvkxHdNU8NhSFcw_pr6iDFWbka)  
 
+## 指標、事件、使用者
+[Getting Started with Analytics on iOS #1: Events (Firecasts)](https://www.youtube.com/watch?v=kpkW78OSbiw)
+[Getting Started with Analytics on iOS #2: User Properties (Firecasts)](https://www.youtube.com/watch?v=DletQHfNGCE)
+[用户标签实践：如何建立标签体系实现精准营销？](http://www.woshipm.com/user-research/1016865.html)
+[Democratizing Metric Definition and Discovery at Airbnb](https://www.youtube.com/watch?v=rpgBge-qJnM)
+[Global metrics, Local metrics](https://medium.com/@TweetAnnaMarie/global-metrics-local-metrics-17b8afadaa6d)
+[Analyzing Metric Changes](https://www.sequoiacap.com/article/analyzing-metric-changes)
+
+
 # SEO   
 [ASO 優化《第一篇》App 標題 — Apptweak 免費 ASO 工具 | Jeffrey Talks](https://medium.com/@jeffreywang1183/app-aso-960640ad90c3)  
