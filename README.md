@@ -75,3 +75,7 @@
 
 # SEO   
 [ASO 優化《第一篇》App 標題 — Apptweak 免費 ASO 工具 | Jeffrey Talks](https://medium.com/@jeffreywang1183/app-aso-960640ad90c3)  
+
+# free pics / icons
+[unsplash](https://unsplash.com/) 
+[noun](https://thenounproject.com/) 
